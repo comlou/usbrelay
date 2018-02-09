@@ -1,0 +1,1 @@
+g++ -o usbrelayplus main.cpp ftd2xx.lib

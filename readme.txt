@@ -1,0 +1,1 @@
+gcc -o usbrelay main.c ftd2xx.lib
